@@ -327,7 +327,7 @@ public class JuegoAjedrezv2 {
         }
       }
       
-      if ((ipeonB + ialfilB + itorreB + icaballoB + ireinaB) < 1) {
+      if ((ipeonB + ialfilB + itorreB + icaballoB + ireinaB + ipeonN + ialfilN + itorreN + icaballoN + ireinaN) < 1) {
         
         vJ2 = true;
         vJ1 = true;
@@ -1682,7 +1682,7 @@ public class JuegoAjedrezv2 {
         }
       }
       
-      if ((ipeonN + ialfilN + itorreN + icaballoN + ireinaN) < 1) {
+      if ((ipeonB + ialfilB + itorreB + icaballoB + ireinaB + ipeonN + ialfilN + itorreN + icaballoN + ireinaN) < 1) {
         
         vJ2 = true;
         vJ1 = true;
